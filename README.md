@@ -1,5 +1,5 @@
 # Minh-Duy-Truong
-Tell me about yourself? 
+Introducing about myself 
 
 Hello everyone, thank you for visiting me today. My name is Minh Truong, and I'm a highly motivated data analyst with 4 of experience in finance field.
 
